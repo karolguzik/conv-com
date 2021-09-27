@@ -1,0 +1,15 @@
+{
+  "name": "commitizen-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-customizable": "^6.3.0"
+  },
+  "scripts": {
+    "commit": "./node_modules/cz-customizable/standalone.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
